@@ -1,18 +1,23 @@
 # KQC7016 Data Analytics Method
   
-Group11-KQC7016 Data Analytics Method  
+Group9-KQC7016 Data Analytics Method  
 Master of Systems Engineering  
 Faculty of Engineering  
 University of Malaya  
   
 ## 目录
- * [***`Member`***](#Lab1-WebScraping)
- * [***`Lab 1`***](#Lab1-WebScraping)
- * [***`Lab 2`***](#Lab2-ExploratoryDataAnalysis)
- * [***`Lab 3`***](#Lab3-ANOVA)
+ * [***Members***](#Lab1-WebScraping(5%))
+ * [***Lab 1***](#Lab1-WebScraping)
+ * [***Lab 2***](#Lab2-ExploratoryDataAnalysis(5%))
+ * [***Lab 3***](#Lab3-ANOVA(5%))
+
+## Members
+ * [***Jiang Yuping***]()
+ * [***Kong Pingfan***](https://github.com/KongPingfanCHN)
+ * [***Liu Zonghua***]()
+ * [***Wu Yufeng***]()
   
-  
-## Lab 1 - Web Scraping (`5%`)
+## Lab 1 - Web Scraping (5%)
   
 1. Study and run [***`lab1.py`***](/lab1.py)
 2. Run the code and examine the input for every ‘part’ of the code
@@ -24,7 +29,7 @@ University of Malaya
 ***`Deadline`***: ***`20 April 2024`***
   
   
-## Lab 2 - Exploratory Data Analysis (`5%`)
+## Lab 2 - Exploratory Data Analysis (5%)
 * Study carefully dataset Lab2x.csv.
 * Write a program (name the file Lab2x.py ) to
    1. Perform some simple exploratory data analysis to understand the dataset.
@@ -35,7 +40,7 @@ University of Malaya
 ***`Deadline`***: ***`20 April 2024`***
   
   
-## Lab 3 - ANOVA (`5%`)
+## Lab 3 - ANOVA (5%)
 
 * Study carefully dataset Lab3.csv .
 * Study the program Lab3a.py to understand the principle of ANOVA.
