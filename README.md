@@ -9,7 +9,7 @@
 4. Modify the code to perform web scraping on another website.
   * You may add additional functions to the code.
 
-Deadline: 20 April 2024
+***`Deadline`***: ***20 April 2024***
 
 ## Lab 2 - Exploratory Data Analysis (5%)
 * Study carefully dataset Lab2x.csv.
@@ -19,8 +19,8 @@ ii. Check and clean the dataset if necessary.
 iii. Perform some meaningful exploratory (or simple statistical) data analysis on the dataset
 iv. Plot some meaningful graphs.
 
-Deadline: 20 April 2024
+***`Deadline`***: ***20 April 2024***
 
 ## Lab 3 - 
 
-Deadline: 20 April 2024
+***`Deadline`***: ***`20 April 2024`***
