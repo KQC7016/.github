@@ -1,4 +1,4 @@
-# .github
+# KQC7016 Data Analytics Method
 
 Lab 1 - Web Scraping (5%)
 
@@ -8,3 +8,13 @@ Lab 1 - Web Scraping (5%)
 3.Prepare a report to explain the function performed in this code, with the help of the print screen of the output.
 4.Modify the code to perform web scraping on another website.
   •You may add additional functions to the code.
+
+Deadline: 20 April 2024
+****
+Lab 3 - 
+
+Deadline: 20 April 2024
+****
+Lab 2 - 
+
+Deadline: 20 April 2024
