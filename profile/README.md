@@ -7,6 +7,7 @@ University of Malaya
   
 ## 目录
  * [***Members***](#Lab1-WebScraping(5%))
+ * [***Repositories***](#Repositories)
  * [***Lab 1***](#Lab1-WebScraping)
  * [***Lab 2***](#Lab2-ExploratoryDataAnalysis(5%))
  * [***Lab 3***](#Lab3-ANOVA(5%))
@@ -16,6 +17,11 @@ University of Malaya
  * [***Kong Pingfan***](https://github.com/KongPingfanCHN)
  * [***Liu Zonghua***]()
  * [***Wu Yufeng***]()
+
+## Repositories
+[**Lab1**](https://github.com/KQC7016/Lab1)  
+[**Lab2**](https://github.com/KQC7016/Lab2)  
+[**Lab2**](https://github.com/KQC7016/Lab3)  
   
 ## Lab 1 - Web Scraping (5%)
   
