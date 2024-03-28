@@ -23,9 +23,9 @@ University of Malaya
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
   
 ## Repositories
-[**Lab1**](https://github.com/KQC7016/Lab1)  
-[**Lab2**](https://github.com/KQC7016/Lab2)  
-[**Lab2**](https://github.com/KQC7016/Lab3)  
+Repository [**KQC7016/Lab1**](https://github.com/KQC7016/Lab1)  
+Repository [**KQC7016/Lab2**](https://github.com/KQC7016/Lab2)  
+Repository [**KQC7016/Lab2**](https://github.com/KQC7016/Lab3)  
   
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
   
