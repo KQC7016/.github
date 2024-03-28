@@ -1,24 +1,11 @@
 # KQC7016 Data Analytics Method
   
-Group9-KQC7016 Data Analytics Method  
-Master of Systems Engineering  
-Faculty of Engineering  
-University of Malaya  
-  
-## 目录
- * [***Members***](#Members)
+## Table of Contents
  * [***Repositories***](#Repositories)
+ * [***Members***](#Members)
  * [***Lab 1***](#Lab1---Web-Scraping-5)
  * [***Lab 2***](#Lab-2---Exploratory-Data-Analysis-5)
  * [***Lab 3***](#Lab-3---ANOVA-5)
-  
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
-  
-## Members
- * [***Jiang Yuping***]()
- * [***Kong Pingfan***](https://github.com/KongPingfanCHN)
- * [***Liu Zonghua***]()
- * [***Wu Yufeng***]()
   
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
   
@@ -26,6 +13,18 @@ University of Malaya
 Repository [**KQC7016/Lab1**](https://github.com/KQC7016/Lab1)  
 Repository [**KQC7016/Lab2**](https://github.com/KQC7016/Lab2)  
 Repository [**KQC7016/Lab2**](https://github.com/KQC7016/Lab3)  
+  
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
+## Members
+Group9-KQC7016 Data Analytics Method  
+Master of Systems Engineering  
+Faculty of Engineering  
+University of Malaya  
+ * [***`Jiang Yuping`***]()
+ * [***`Kong Pingfan`***](https://github.com/KongPingfanCHN)
+ * [***`Liu Zonghua`***]()
+ * [***`Wu Yufeng`***]()
   
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
   
