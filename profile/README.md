@@ -6,22 +6,28 @@ Faculty of Engineering
 University of Malaya  
   
 ## 目录
- * [***Members***](#Lab1-WebScraping(5%))
+ * [***Members***](#Members)
  * [***Repositories***](#Repositories)
- * [***Lab 1***](#Lab1-WebScraping)
- * [***Lab 2***](#Lab2-ExploratoryDataAnalysis(5%))
- * [***Lab 3***](#Lab3-ANOVA(5%))
-
+ * [***Lab 1***](#Lab1---Web-Scraping-5)
+ * [***Lab 2***](#Lab-2---Exploratory-Data-Analysis-5)
+ * [***Lab 3***](#Lab-3---ANOVA-5)
+  
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
 ## Members
  * [***Jiang Yuping***]()
  * [***Kong Pingfan***](https://github.com/KongPingfanCHN)
  * [***Liu Zonghua***]()
  * [***Wu Yufeng***]()
-
+  
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
 ## Repositories
 [**Lab1**](https://github.com/KQC7016/Lab1)  
 [**Lab2**](https://github.com/KQC7016/Lab2)  
 [**Lab2**](https://github.com/KQC7016/Lab3)  
+  
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
   
 ## Lab 1 - Web Scraping (5%)
   
@@ -32,8 +38,11 @@ University of Malaya
 4. Modify the code to perform web scraping on another website.
    * You may add additional functions to the code.
   
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
 ***`Deadline`***: ***`20 April 2024`***
   
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
   
 ## Lab 2 - Exploratory Data Analysis (5%)
 * Study carefully dataset Lab2x.csv.
@@ -45,6 +54,7 @@ University of Malaya
   
 ***`Deadline`***: ***`20 April 2024`***
   
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
   
 ## Lab 3 - ANOVA (5%)
 
@@ -54,3 +64,6 @@ University of Malaya
 * Write a program Lab3b.py to perform the same test above, but instead of comparing the gender, we compare the effects of diet on different age groups (define the age groups yourself).
   
 ***`Deadline`***: ***`20 April 2024`***
+  
+[`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
