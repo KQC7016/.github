@@ -46,8 +46,6 @@ University of Malaya
 4. Modify the code to perform web scraping on another website.
    * You may add additional functions to the code.
   
-[`Back to top`](#kqc7016-data-analytics-method)
-  
 ***`Deadline`***: ***`20 April 2024`***
   
 [`Back to top`](#kqc7016-data-analytics-method)
