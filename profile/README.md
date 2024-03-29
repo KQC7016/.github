@@ -3,9 +3,9 @@
 ## Table of Contents
  * [***Repositories***](#Repositories)
  * [***Members***](#Members)
- * [***Lab 1***](#Lab1---Web-Scraping-5)
- * [***Lab 2***](#Lab-2---Exploratory-Data-Analysis-5)
- * [***Lab 3***](#Lab-3---ANOVA-5)
+ * [***Lab 1***](#lab-1---web-scraping-5)
+ * [***Lab 2***](#lab-2---exploratory-data-analysis-5)
+ * [***Lab 3***](#lab-3---anova-5)
   
 [`Back to top`](#kqc7016-data-analytics-method)
   
