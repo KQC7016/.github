@@ -7,7 +7,7 @@
  * [***Lab 2***](#Lab-2---Exploratory-Data-Analysis-5)
  * [***Lab 3***](#Lab-3---ANOVA-5)
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ## Repositories
 `Lab1`:   
@@ -23,7 +23,7 @@ Repository: [**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)
 Souce Code: [**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/Lab3)  
   
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ## Members
 Group9-KQC7016 Data Analytics Method  
@@ -35,7 +35,7 @@ University of Malaya
  * [***`Liu Zonghua`***]()
  * [***`Wu Yufeng`***]()
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ## Lab 1 - Web Scraping (5%)
   
@@ -46,11 +46,11 @@ University of Malaya
 4. Modify the code to perform web scraping on another website.
    * You may add additional functions to the code.
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ***`Deadline`***: ***`20 April 2024`***
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ## Lab 2 - Exploratory Data Analysis (5%)
 * Study carefully dataset Lab2x.csv.
@@ -62,7 +62,7 @@ University of Malaya
   
 ***`Deadline`***: ***`20 April 2024`***
   
-[`Back to top`](#-KQC7016-Data-Analytics-Method)
+[`Back to top`](#kqc7016-data-analytics-method)
   
 ## Lab 3 - ANOVA (5%)
 
