@@ -10,6 +10,12 @@
 [`Back to top`](#kqc7016-data-analytics-method)
   
 ## Repositories
+|Lab|Repository|Souce Code|
+| ---------- | -----------| -----------|
+|Lab1|[**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)|[**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/Lab1)|
+|Lab2|[**`KQC7016/Lab2`**](https://github.com/KQC7016/Lab2)|[**`KQC7016/Lab2/Lab2`**](https://github.com/KQC7016/Lab2/Lab2)|
+|Lab3|[**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)|[**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/Lab3)|
+
 `Lab1`:   
 Repository: [**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)  
 Souce Code: [**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/Lab1)  
