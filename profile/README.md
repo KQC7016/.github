@@ -6,6 +6,7 @@
  * [***Lab 1***](#lab-1---web-scraping-5)
  * [***Lab 2***](#lab-2---exploratory-data-analysis-5)
  * [***Lab 3***](#lab-3---anova-5)
+ * [***Assignment***](#Assignment)
   
 [`Back to top`](#kqc7016-data-analytics-method)
   
@@ -15,6 +16,7 @@
 |Lab1|[**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)|[**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/Lab1)|
 |Lab2|[**`KQC7016/Lab2`**](https://github.com/KQC7016/Lab2)|[**`KQC7016/Lab2/Lab2`**](https://github.com/KQC7016/Lab2/Lab2)|
 |Lab3|[**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)|[**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/Lab3)|
+|Assignment|[**`KQC7016/Assignment`**](https://github.com/KQC7016/Assignment)||
 
 `Souce Code` floders are the **root** floders of projects
   
@@ -59,7 +61,7 @@ University of Malaya
 [`Back to top`](#kqc7016-data-analytics-method)
   
 ## Lab 3 - ANOVA (5%)
-
+  
 * Study carefully dataset Lab3.csv .
 * Study the program Lab3a.py to understand the principle of ANOVA.
 * In the report, explain the code; and give conclusion to the output.
@@ -68,4 +70,20 @@ University of Malaya
 ***`Deadline`***: ***`20 April 2024`***
   
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
+  
+## Assignment
+  
+Submit the following: (save as GroupX.zip or GroupX.rar)
+1. Report (10%) (not more than 10 pages)
+  * Cover Page: Title and Name&Student ID of members
+  * Introduction
+  * Literature Review: A brief review of existing DL Solutions
+  * The Chosen Solution & Simulation
+  * Results & Discussion
+  * References
+  * Link to download Video, Code & Dataset.
+2. Video Presentation & Demonstration (5%)
+3. Code & Dataset
+  
+[`Back to top`](#kqc7016-data-analytics-method)
   
