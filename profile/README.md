@@ -24,14 +24,15 @@
 [`Back to top`](#kqc7016-data-analytics-method)
   
 ## Members
-Group9-KQC7016 Data Analytics Method  
-Master of Systems Engineering  
-Faculty of Engineering  
-University of Malaya  
+  
  * [***`Jiang Yuping`***](https://github.com/Catheriny)
  * [***`Kong Pingfan`***](https://github.com/KongPingfanCHN)
  * [***`Liu Zonghua`***](https://github.com/18612087128)
  * [***`Wu Yufeng`***](https://github.com/1756604347)
+  
+Group9, KQC7016 Data Analytics Method, 
+Semester2, Session 2023/2024, Master of Systems Engineering  
+Faculty of Engineering, University of Malaya  
   
 [`Back to top`](#kqc7016-data-analytics-method)
   
