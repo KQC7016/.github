@@ -11,14 +11,14 @@
 [`Back to top`](#kqc7016-data-analytics-method)
   
 ## Repositories
-|Lab|Repository|Souce Code|
+|Lab|Repository|Main Code|
 | ---------- | -----------| -----------|
 |Lab1|[**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)|[**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/Lab1)|
 |Lab2|[**`KQC7016/Lab2`**](https://github.com/KQC7016/Lab2)|[**`KQC7016/Lab2/Lab2`**](https://github.com/KQC7016/Lab2/Lab2)|
 |Lab3|[**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)|[**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/Lab3)|
 |Assignment|[**`KQC7016/Assignment`**](https://github.com/KQC7016/Assignment)||
 
-`Souce Code` floders are the **root** floders of projects
+`Repository` floders are the **root** floders of projects
   
   
 [`Back to top`](#kqc7016-data-analytics-method)
