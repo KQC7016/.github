@@ -6,7 +6,7 @@
  * [***Lab 1***](#lab-1---web-scraping-5)
  * [***Lab 2***](#lab-2---exploratory-data-analysis-5)
  * [***Lab 3***](#lab-3---anova-5)
- * [***Assignment***](#Assignment)
+ * [***Assignment***](#assignment---data-driven-solution-for-engineering-problem-15)
   
 [`Back to top`](#kqc7016-data-analytics-method)
   
@@ -72,7 +72,7 @@ Faculty of Engineering, University of Malaya
   
 [`Back to top`](#-KQC7016-Data-Analytics-Method)
   
-## Assignment
+## Assignment - Data Driven Solution for Engineering Problem (15%)
   
 Submit the following: (save as GroupX.zip or GroupX.rar)
 1. Report (10%) (not more than 10 pages)
