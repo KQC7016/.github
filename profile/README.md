@@ -12,11 +12,11 @@
   
 ## Repositories
 |Lab|Repository|Main Code|
-| ---------- | -----------| -----------|
-|Lab1|[**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)|[**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/Lab1)|
-|Lab2|[**`KQC7016/Lab2`**](https://github.com/KQC7016/Lab2)|[**`KQC7016/Lab2/Lab2`**](https://github.com/KQC7016/Lab2/Lab2)|
-|Lab3|[**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)|[**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/Lab3)|
-|Assignment|[**`KQC7016/Assignment`**](https://github.com/KQC7016/Assignment)|[**`KQC7016/Assignment/Assignment`**](https://github.com/KQC7016/Assignment/Assignment)|
+|:----------:|:-----------:|:-----------:|
+|Lab1|[**`KQC7016/Lab1`**](https://github.com/KQC7016/Lab1)|[**`KQC7016/Lab1/Lab1`**](https://github.com/KQC7016/Lab1/tree/master/Lab1)|
+|Lab2|[**`KQC7016/Lab2`**](https://github.com/KQC7016/Lab2)|[**`KQC7016/Lab2/Lab2`**](https://github.com/KQC7016/Lab2/tree/master/Lab2)|
+|Lab3|[**`KQC7016/Lab3`**](https://github.com/KQC7016/Lab3)|[**`KQC7016/Lab3/Lab3`**](https://github.com/KQC7016/Lab3/tree/master/Lab3)|
+|Assignment|[**`KQC7016/Assignment`**](https://github.com/KQC7016/Assignment)|[**`KQC7016/Assignment/Assignment`**](https://github.com/KQC7016/Assignment/tree/master/Assignment)|
 
 `Repository` floders are the **root** floders of projects
   
