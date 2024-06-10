@@ -25,12 +25,14 @@
   
 ## Members
   
- * [***`Jiang Yuping`***](https://github.com/Catheriny)
- * [***`Kong Pingfan`***](https://github.com/KongPingfanCHN)
- * [***`Liu Zonghua`***](https://github.com/18612087128)
- * [***`Wu Yufeng`***](https://github.com/1756604347)
+|Name|Matrix Number|
+|:----------:|:-----------:|
+|[***`Jiang Yuping`***](https://github.com/Catheriny)|22055991/1|
+|[***`Kong Pingfan`***](https://github.com/KongPingfanCHN)|22104169/1|
+|[***`Liu Zonghua`***](https://github.com/18612087128)|22113005/1|
+|[***`Wu Yufeng`***](https://github.com/1756604347)|22120750/1|
   
-Group9, KQC7016 Data Analytics Method, 
+Group9, KQC7016 Data Analytics Method,  
 Semester2, Session 2023/2024, Master of Systems Engineering  
 Faculty of Engineering, University of Malaya  
   
